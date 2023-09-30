@@ -1,0 +1,6 @@
+5
+E E W S B
+B E E E S
+W E E B E
+E E E E E
+S E E W E

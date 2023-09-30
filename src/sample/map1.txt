@@ -1,0 +1,17 @@
+16
+W E E E E E E E E E E E E E E W
+E E E E E S E E E B E E E E E E
+E E T T E S E B B E E E E E E E
+S E T E T S E E E E S E S S E E
+B E E E E E E E E S S S S S E E
+S E E E E S S S S B B B B B E E
+S W W E E E E E E E S S E E E E
+T W W E E E E E E E E E E E E E
+T B B E E E E E E E E E E E E E
+T E E P E E E E E E E E E E E E
+E S E B B E T W S T T T T B E E
+E E E E E E E E E E E E E E E E
+E E E E B B B E E E E E E E E E
+E E E B B B E E E S S S S W E E
+E E E E E E E E E E E E E E E E
+W E E E E E E E E E E E E E E W
